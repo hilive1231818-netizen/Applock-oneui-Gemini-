@@ -1,0 +1,6 @@
+{
+  "name": "App Lock",
+  "description": "A high-security, battery-efficient App Lock styled for Samsung One UI, featuring native biometric prompt protection and customized per-app timers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
